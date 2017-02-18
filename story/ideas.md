@@ -106,3 +106,8 @@ use oars to go north - which is where you see a walleye that you might be able t
 use oars to go east - which is where you see virtually nothing
 use oars to go south - there seems to be land that way, all the way in the distancel
 use oars to go west - there is just a peice of sharp driftwood floating around
+
+
+
+
+The rest is in outline form on the notebook.
